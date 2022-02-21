@@ -1,4 +1,4 @@
-### Olá! Eu sou a Diogo Zaror, seja bem vindo ao meu perfil!
+### Olá! Eu sou o Diogo Zaror, seja bem vindo ao meu perfil!
 <div align="center">
   <a href="https://github.com/diogozaror">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogozaror&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
